@@ -1,0 +1,9 @@
+[project]
+name = "2025-sqlalchemy-orm-fundamentals-3-livee"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.9"
+dependencies = [
+    "sqlalchemy==2.0.38",
+    "typing-extensions==4.15.0"
+]
